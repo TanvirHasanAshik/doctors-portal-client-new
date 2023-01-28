@@ -9,7 +9,7 @@ const Navbar = () => {
         <li><Link to="/login" >Login</Link></li>
     </>
     return (
-        <div className="navbar bg-base-100 max-w-[1440px] flex justify-between">
+        <div className="navbar bg-base-100 max-w-[1440px] flex lg:justify-around">
             <div className="navbar-start">
                 <div className="dropdown ">
                     <label tabIndex={0} className="btn btn-ghost lg:hidden">
