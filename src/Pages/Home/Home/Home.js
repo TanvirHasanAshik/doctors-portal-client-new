@@ -6,7 +6,6 @@ import InfoCards from '../InfoCards/InfoCards';
 import MakeAppointment from '../MakeAppointment/MakeAppointment';
 import OurServices from '../OurServices/OurServices';
 import Testimonials from '../Testimonials/Testimonials';
-
 const Home = () => {
     return (
         <div className=''>
